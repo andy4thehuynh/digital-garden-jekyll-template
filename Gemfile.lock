@@ -88,8 +88,5 @@ DEPENDENCIES
   pry (~> 0.14.1)
   webrick (~> 1.7)
 
-RUBY VERSION
-   ruby 2.7.2p137
-
 BUNDLED WITH
    2.2.3
